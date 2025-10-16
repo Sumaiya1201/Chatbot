@@ -1,6 +1,4 @@
-#LANGCHAIN_API_KEY="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"
-#GOOGLE_API_KEY=""AIzaSyClk1FI8ygKigif4kHKj_PUK_yBOfGDd8M"
-#LANGCHAIN PROJECT=LANGCHAIN PROJECT
+
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
